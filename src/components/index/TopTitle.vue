@@ -19,7 +19,7 @@
 export default {
   data() {
     return {
-      msg: "塔筒数据统计系统",
+      msg: "数据统计系统",
       repair: "维护"
     };
   },
